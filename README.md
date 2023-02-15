@@ -10,7 +10,7 @@ Gysselis Vásquez, César Hurtado, Wilmer Farfán
 
 ## Dataset
 
-##M odelos implementados
+## Modelos implementados
 
 ## Enlaces
 Codigo: https://colab.research.google.com/drive/19U_KjZCRZQE91JyPsZD-_-isLKzWMHwG#scrollTo=k1aLYVwCmBmr
