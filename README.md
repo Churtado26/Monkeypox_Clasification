@@ -1,8 +1,6 @@
 # Monkeypox Clasification
 ![Banner Monkeypox Clasification](https://github.com/Churtado26/Monkeypox_Clasification/blob/main/Banner%20IA.png)
-
-## Hecho por:
-Gysselis Vásquez, César Hurtado, Wilmer Farfán
+**Autores:** *Gysselis Vásquez, César Hurtado, Wilmer Farfán*
 
 ## Objetivo:
 
