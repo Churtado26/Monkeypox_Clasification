@@ -7,7 +7,7 @@
 Desarrollar un modelo de clasificación de imágenes basado en inteligencia artificial capaz de detectar la presencia de viruela del mono en imágenes de distintas partes del cuerpo humano, utilizando técnicas de procesamiento de imágenes y aprendizaje profundo.
 
 ## Dataset
-El dataset cuenta con dos clases de imágenes: *Monkeypox*, que hace referencia a los casos de viruela del mono y, por otro lado, tenemos el tipo *Others*, en donde se almacenan las imágenes para otros tipos de lesiones cutáneas (otras viruelas).
+El Dataset cuenta con dos clases de imágenes: *Monkeypox*, que hace referencia a los casos de viruela del mono y, por otro lado, tenemos el tipo *Others*, en donde se almacenan las imágenes para otros tipos de lesiones cutáneas (otras viruelas).
 O bueno, la segunda sería similar a lo que tienes, pero tipo:
 De manera general, se cuenta con **2607** imágenes, de las cuales **1439** corresponden a *Monkeypox* y **1168** a *Others*
 
