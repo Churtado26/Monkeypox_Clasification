@@ -7,8 +7,10 @@
 Clasificar la enfermedad de la viruela del mono a partir de imagenes de distintas partes del cuerpo
 
 ## Dataset
-El Dataset cuenta con imágenes con la enfermedad de la viruela del mono y otras que no (varicela, sarampión).
-Cuenta con datos para entrenamiento, prueba y validación. Hay alrededor de 2607 imagenes
+El Dataset cuenta con imágenes con la enfermedad de la viruela del mono y otras en las que no (varicela, sarampión).
+
+Cuenta con datos para entrenamiento, prueba y validación los cuales suman en su totalidad 2607
+
 **link: **https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset
 
 ## Modelos implementados
