@@ -4,7 +4,7 @@
 **Autores:** *Gysselis Vásquez, César Hurtado, Wilmer Farfán*
 
 ## Objetivo:
-Desarrollar un modelo de clasificación de imágenes basado en inteligencia artificial capaz de detectar la presencia de viruela del mono en imágenes distintas partes del cuerpo de humanos coutilizando técnicas de procesamiento de imágenes y aprendizaje profundo.
+Desarrollar un modelo de clasificación de imágenes basado en inteligencia artificial capaz de detectar la presencia de viruela del mono en imágenes de distintas partes del cuerpo humano, utilizando técnicas de procesamiento de imágenes y aprendizaje profundo.
 
 ## Dataset
 El Dataset cuenta con imágenes con la enfermedad de la viruela del mono y otras en las que no (varicela, sarampión).
