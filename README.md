@@ -17,4 +17,4 @@ Cuenta con datos para entrenamiento, prueba y validación los cuales suman en su
 GaussianNB, Decision Tree, Random Forest, Support Vector Machine, DNN, CNN
 
 ## Enlaces
-Codigo: https://colab.research.google.com/drive/19U_KjZCRZQE91JyPsZD-_-isLKzWMHwG#scrollTo=k1aLYVwCmBmr
+**Codigo:** https://colab.research.google.com/drive/19U_KjZCRZQE91JyPsZD-_-isLKzWMHwG#scrollTo=k1aLYVwCmBmr
