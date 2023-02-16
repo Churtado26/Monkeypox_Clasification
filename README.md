@@ -11,7 +11,7 @@ El Dataset cuenta con dos clases de imágenes: *Monkeypox*, que hace referencia 
 O bueno, la segunda sería similar a lo que tienes, pero tipo:
 De manera general, se cuenta con **2607** imágenes, de las cuales **1439** corresponden a *Monkeypox* y **1168** a *Others*
 
-**link:** https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset
+**Link:** https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset
 
 ## Modelos implementados
 GaussianNB, Decision Tree, Random Forest, Support Vector Machine, DNN, CNN.
@@ -21,4 +21,4 @@ GaussianNB, Decision Tree, Random Forest, Support Vector Machine, DNN, CNN.
 
 **Repositorio:** https://github.com/Churtado26/Monkeypox_Clasification
 
-**Video:** 
+**Video:** https://youtu.be/O-GTvXt6ghA
