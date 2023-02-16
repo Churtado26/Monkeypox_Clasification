@@ -11,7 +11,7 @@ El Dataset cuenta con imágenes con la enfermedad de la viruela del mono y otras
 
 Cuenta con datos para entrenamiento, prueba y validación los cuales suman en su totalidad 2607
 
-**link: **https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset
+**link:** https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset
 
 ## Modelos implementados
 GaussianNB, Decision Tree, Random Forest, Support Vector Machine, DNN, CNN
