@@ -9,7 +9,7 @@ Desarrollar un modelo de clasificación de imágenes basado en inteligencia arti
 ## Dataset
 El dataset cuenta con dos clases de imágenes: *Monkeypox*, que hace referencia a los casos de viruela del mono y, por otro lado, tenemos el tipo *Others*, en donde se almacenan las imágenes para otros tipos de lesiones cutáneas (otras viruelas).
 O bueno, la segunda sería similar a lo que tienes, pero tipo:
-De manera general, se cuenta con 2607 imágenes, de las cuales x corresponden a Monkeypox y x a Others
+De manera general, se cuenta con 2607 imágenes, de las cuales **1439** corresponden a *Monkeypox* y **1168** a *Others*
 
 Cuenta con datos para entrenamiento, prueba y validación los cuales suman en su totalidad 2607 imagenes.
 
