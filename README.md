@@ -17,4 +17,4 @@ De manera general, se cuenta con **2607** imágenes, de las cuales **1439** corr
 GaussianNB, Decision Tree, Random Forest, Support Vector Machine, DNN, CNN.
 
 ## Enlaces
-**Código:** https://colab.research.google.com/drive/19U_KjZCRZQE91JyPsZD-_-isLKzWMHwG#scrollTo=k1aLYVwCmBmr
+**Notebook:** https://colab.research.google.com/drive/19U_KjZCRZQE91JyPsZD-_-isLKzWMHwG#scrollTo=k1aLYVwCmBmr
