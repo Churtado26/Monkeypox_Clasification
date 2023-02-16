@@ -18,5 +18,7 @@ GaussianNB, Decision Tree, Random Forest, Support Vector Machine, DNN, CNN.
 
 ## Enlaces
 **Notebook:** https://colab.research.google.com/drive/19U_KjZCRZQE91JyPsZD-_-isLKzWMHwG#scrollTo=k1aLYVwCmBmr
+
 **Repositorio:** https://github.com/Churtado26/Monkeypox_Clasification
+
 **Video:** 
